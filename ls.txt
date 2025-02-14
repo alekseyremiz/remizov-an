@@ -1,0 +1,9 @@
+total 28K
+drwxrwxr-x 3 aleksey_remiz aleksey_remiz 4.0K Feb 14 20:53 ./
+drwxr-x--- 9 aleksey_remiz aleksey_remiz 4.0K Feb 14 20:52 ../
+-rw-rw-r-- 1 aleksey_remiz aleksey_remiz  939 Feb 14 20:50 config.txt
+-rw-rw-r-- 1 aleksey_remiz aleksey_remiz  177 Feb 14 20:45 first.txt
+drwxrwxr-x 8 aleksey_remiz aleksey_remiz 4.0K Feb 14 20:53 .git/
+-rw-rw-r-- 1 aleksey_remiz aleksey_remiz    0 Feb 14 20:53 ls.txt
+-rw-rw-r-- 1 aleksey_remiz aleksey_remiz   12 Feb 14 20:44 README.md
+-rw-rw-r-- 1 aleksey_remiz aleksey_remiz  199 Feb 14 20:45 status.txt
